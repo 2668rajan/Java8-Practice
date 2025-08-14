@@ -4,24 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41d1c27-5b5c-41c3-b169-1b0ad150911a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8 practice.iml" afterDir="false" />
+    <list default="true" id="e41d1c27-5b5c-41c3-b169-1b0ad150911a" name="Changes" comment="first commit">
       <change afterPath="$PROJECT_DIR$/src/FilterOddEven.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FrequencyOfCharacter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FrequencyOfElement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JoinStrings.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeArraysWithoutDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeTwoArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiplesOfFive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateElements.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SecondMaxAndSecondMin.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SortDecimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "2668rajan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/2668rajan/Java8-Practice.git",
+    "accountId": "1370f6cc-8bb5-4d0d-b3f7-6fc8e78343e6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -54,6 +61,8 @@
     "Application.FrequencyOfElement.executor": "Run",
     "Application.JoinStrings.executor": "Run",
     "Application.MaxAndMin.executor": "Run",
+    "Application.MergeArraysWithoutDuplicates.executor": "Run",
+    "Application.MergeTwoArrays.executor": "Debug",
     "Application.MultiplesOfFive.executor": "Run",
     "Application.RemoveDuplicateElements.executor": "Run",
     "Application.SecondMaxAndSecondMin.executor": "Run",
@@ -67,16 +76,23 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SecondMaxAndSecondMin">
-    <configuration name="JoinStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JoinStrings" />
+  <component name="RunManager" selected="Application.MergeArraysWithoutDuplicates">
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxAndMin" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxAndMin" />
+    <configuration name="MergeArraysWithoutDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeArraysWithoutDuplicates" />
+      <module name="Java8 practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoArrays" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,20 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortDecimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortDecimals" />
-      <module name="Java8 practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeArraysWithoutDuplicates" />
+        <item itemvalue="Application.MergeTwoArrays" />
         <item itemvalue="Application.SecondMaxAndSecondMin" />
         <item itemvalue="Application.MaxAndMin" />
         <item itemvalue="Application.MultiplesOfFive" />
-        <item itemvalue="Application.JoinStrings" />
-        <item itemvalue="Application.SortDecimals" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1755192531898</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1755195823058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755195823058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
