@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e41d1c27-5b5c-41c3-b169-1b0ad150911a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8 practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FilterOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrequencyOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrequencyOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JoinStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplesOfFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondMaxAndSecondMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortDecimals.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="31Hsr96udEuKpDiORaYNIrRXLln" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FilterOddEven.executor": "Run",
+    "Application.FrequencyOfCharacter.executor": "Run",
+    "Application.FrequencyOfElement.executor": "Run",
+    "Application.JoinStrings.executor": "Run",
+    "Application.MaxAndMin.executor": "Run",
+    "Application.MultiplesOfFive.executor": "Run",
+    "Application.RemoveDuplicateElements.executor": "Run",
+    "Application.SecondMaxAndSecondMin.executor": "Run",
+    "Application.SortDecimals.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SecondMaxAndSecondMin">
+    <configuration name="JoinStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JoinStrings" />
+      <module name="Java8 practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxAndMin" />
+      <module name="Java8 practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplesOfFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplesOfFive" />
+      <module name="Java8 practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondMaxAndSecondMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondMaxAndSecondMin" />
+      <module name="Java8 practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortDecimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortDecimals" />
+      <module name="Java8 practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecondMaxAndSecondMin" />
+        <item itemvalue="Application.MaxAndMin" />
+        <item itemvalue="Application.MultiplesOfFive" />
+        <item itemvalue="Application.JoinStrings" />
+        <item itemvalue="Application.SortDecimals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e41d1c27-5b5c-41c3-b169-1b0ad150911a" name="Changes" comment="" />
+      <created>1755192531898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755192531898</updated>
+    </task>
+    <servers />
+  </component>
+</project>
