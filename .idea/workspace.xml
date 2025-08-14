@@ -4,18 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41d1c27-5b5c-41c3-b169-1b0ad150911a" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/FilterOddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrequencyOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrequencyOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JoinStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeArraysWithoutDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplesOfFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondMaxAndSecondMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortDecimals.java" afterDir="false" />
+    <list default="true" id="e41d1c27-5b5c-41c3-b169-1b0ad150911a" name="Changes" comment="easy problems">
+      <change afterPath="$PROJECT_DIR$/src/AreAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicatesElementsOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First10OddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxAndMinLengthString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintFirst10Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepeatedCharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortListArrayByLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringStartsWithNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfFirst10NaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreeMaximumAndThreeMinimum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,57 +64,76 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AreAnagrams.executor": "Run",
+    "Application.CommonElements.executor": "Run",
+    "Application.DuplicatesElementsOfArray.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
     "Application.FilterOddEven.executor": "Run",
+    "Application.First10OddNumbers.executor": "Run",
     "Application.FrequencyOfCharacter.executor": "Run",
     "Application.FrequencyOfElement.executor": "Run",
     "Application.JoinStrings.executor": "Run",
+    "Application.LastElement.executor": "Run",
     "Application.MaxAndMin.executor": "Run",
+    "Application.MaxAndMinLengthString.executor": "Run",
     "Application.MergeArraysWithoutDuplicates.executor": "Run",
     "Application.MergeTwoArrays.executor": "Debug",
     "Application.MultiplesOfFive.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
+    "Application.PrintFirst10Numbers.executor": "Run",
     "Application.RemoveDuplicateElements.executor": "Run",
+    "Application.RepeatedCharactersInAString.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
     "Application.SecondMaxAndSecondMin.executor": "Run",
     "Application.SortDecimals.executor": "Run",
+    "Application.SortListArrayByLength.executor": "Run",
+    "Application.StringStartsWithNumber.executor": "Run",
+    "Application.SumAverage.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumOfFirst10NaturalNumbers.executor": "Run",
+    "Application.ThreeMaximumAndThreeMinimum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MergeArraysWithoutDuplicates">
-    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxAndMin" />
+  <component name="RunManager" selected="Application.LastElement">
+    <configuration name="DuplicatesElementsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicatesElementsOfArray" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeArraysWithoutDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeArraysWithoutDuplicates" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeTwoArrays" />
+    <configuration name="First10OddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First10OddNumbers" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplesOfFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplesOfFive" />
+    <configuration name="LastElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastElement" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondMaxAndSecondMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondMaxAndSecondMin" />
+    <configuration name="RepeatedCharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatedCharactersInAString" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeArraysWithoutDuplicates" />
-        <item itemvalue="Application.MergeTwoArrays" />
-        <item itemvalue="Application.SecondMaxAndSecondMin" />
-        <item itemvalue="Application.MaxAndMin" />
-        <item itemvalue="Application.MultiplesOfFive" />
+        <item itemvalue="Application.LastElement" />
+        <item itemvalue="Application.First10OddNumbers" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.RepeatedCharactersInAString" />
+        <item itemvalue="Application.DuplicatesElementsOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -139,11 +166,30 @@
       <option name="project" value="LOCAL" />
       <updated>1755195823058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="easy problems">
+      <option name="closed" value="true" />
+      <created>1755197464535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755197464535</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="easy problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy problems" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
