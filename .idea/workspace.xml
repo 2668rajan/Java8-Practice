@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e41d1c27-5b5c-41c3-b169-1b0ad150911a" name="Changes" comment="easy problems">
-      <change afterPath="$PROJECT_DIR$/src/AreAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicatesElementsOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First10OddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LastElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxAndMinLengthString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintFirst10Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepeatedCharactersInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortListArrayByLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringStartsWithNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfFirst10NaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreeMaximumAndThreeMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AgeCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "2668rajan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;2668rajan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/2668rajan/Java8-Practice.git",
-    "accountId": "1370f6cc-8bb5-4d0d-b3f7-6fc8e78343e6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/2668rajan/Java8-Practice.git&quot;,
+    &quot;accountId&quot;: &quot;1370f6cc-8bb5-4d0d-b3f7-6fc8e78343e6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="31Hsr96udEuKpDiORaYNIrRXLln" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgeCalculator.executor": "Run",
     "Application.AreAnagrams.executor": "Run",
     "Application.CommonElements.executor": "Run",
     "Application.DuplicatesElementsOfArray.executor": "Run",
@@ -103,9 +87,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LastElement">
-    <configuration name="DuplicatesElementsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicatesElementsOfArray" />
+  <component name="RunManager" selected="Application.AgeCalculator">
+    <configuration name="AgeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AgeCalculator" />
       <module name="Java8 practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgeCalculator" />
         <item itemvalue="Application.LastElement" />
         <item itemvalue="Application.First10OddNumbers" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.RepeatedCharactersInAString" />
-        <item itemvalue="Application.DuplicatesElementsOfArray" />
       </list>
     </recent_temporary>
   </component>
